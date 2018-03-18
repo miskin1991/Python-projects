@@ -41,11 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4_Greater_number.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4_Greater_number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_Greater_number.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5_Number_to_text.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5_Number_to_text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,6 +80,7 @@
         <option value="$PROJECT_DIR$/2_Excellent_or_not.py" />
         <option value="$PROJECT_DIR$/3_Odd_or_even.py" />
         <option value="$PROJECT_DIR$/4_Greater_number.py" />
+        <option value="$PROJECT_DIR$/5_Number_to_text.py" />
       </list>
     </option>
   </component>
@@ -129,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4_Greater_number">
+  <component name="RunManager" selected="Python.5_Number_to_text">
     <configuration name="1_Excellent_result" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,18 +213,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="4">
+    <configuration name="5_Number_to_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2018_03_18_Simple_Conditions" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Number_to_text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.1_Excellent_result" />
       <item index="1" class="java.lang.String" itemvalue="Python.2_Excellent_or_not" />
       <item index="2" class="java.lang.String" itemvalue="Python.3_Odd_or_even" />
       <item index="3" class="java.lang.String" itemvalue="Python.4_Greater_number" />
+      <item index="4" class="java.lang.String" itemvalue="Python.5_Number_to_text" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.4_Greater_number" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3_Odd_or_even" />
-        <item index="2" class="java.lang.String" itemvalue="Python.2_Excellent_or_not" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1_Excellent_result" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.5_Number_to_text" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4_Greater_number" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3_Odd_or_even" />
+        <item index="3" class="java.lang.String" itemvalue="Python.2_Excellent_or_not" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1_Excellent_result" />
       </list>
     </recent_temporary>
   </component>
@@ -301,6 +332,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Number_to_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
