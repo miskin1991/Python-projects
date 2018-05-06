@@ -11,11 +11,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2_Small_shop.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2_Small_shop.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_Small_shop.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="291">
-              <caret line="57" lean-forward="true" selection-end-line="57" />
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3_Point_inside_square.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_Point_inside_square.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -38,12 +47,13 @@
         <option value="$PROJECT_DIR$/1_Greetings.py" />
         <option value="$PROJECT_DIR$/1_Personal_Titles.py" />
         <option value="$PROJECT_DIR$/2_Small_shop.py" />
+        <option value="$PROJECT_DIR$/3_Point_inside_square.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="1437" />
+    <option name="y" value="-300" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -79,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2_Small_shop">
+  <component name="RunManager" selected="Python.3_Point_inside_square">
     <configuration name="1_Greetings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2018_05_06_Complex_Conditions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,12 +126,32 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="3_Point_inside_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2018_05_06_Complex_Conditions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_Point_inside_square.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.1_Greetings" />
       <item itemvalue="Python.2_Small_shop" />
+      <item itemvalue="Python.3_Point_inside_square" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3_Point_inside_square" />
         <item itemvalue="Python.2_Small_shop" />
         <item itemvalue="Python.1_Greetings" />
       </list>
@@ -141,16 +171,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1358" y="-287" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2026538" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32838285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2240991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Favorites" side_tool="true" />
@@ -184,7 +214,14 @@
     <entry file="file://$PROJECT_DIR$/2_Small_shop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
-          <caret line="57" lean-forward="true" selection-end-line="57" />
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Point_inside_square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
