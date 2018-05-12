@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc157ed0-ec07-4dd3-a272-f932cf7d7a9f" name="Default" comment="" />
+    <list default="true" id="cc157ed0-ec07-4dd3-a272-f932cf7d7a9f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,38 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2_Small_shop.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_Small_shop.py">
+      <file leaf-file-name="6_Point_on_square_side.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6_Point_on_square_side.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3_Point_inside_square.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_Point_inside_square.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4_Fruit_or_vegetable.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_Fruit_or_vegetable.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5_Invalid_number.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5_Invalid_number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="158">
+              <caret line="41" column="72" lean-forward="true" selection-end-line="61" />
             </state>
           </provider>
         </entry>
@@ -68,12 +43,13 @@
         <option value="$PROJECT_DIR$/3_Point_inside_square.py" />
         <option value="$PROJECT_DIR$/4_Fruit_or_vegetable.py" />
         <option value="$PROJECT_DIR$/5_Invalid_number.py" />
+        <option value="$PROJECT_DIR$/6_Point_on_square_side.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-93" />
-    <option name="y" value="-15" />
+    <option name="x" value="1604" />
+    <option name="y" value="-302" />
     <option name="width" value="1124" />
     <option name="height" value="536" />
   </component>
@@ -109,25 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5_Invalid_number">
-    <configuration name="1_Greetings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2018_05_06_Complex_Conditions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Greetings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.6_Point_on_square_side">
     <configuration name="2_Small_shop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2018_05_06_Complex_Conditions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,20 +158,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="6_Point_on_square_side" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2018_05_06_Complex_Conditions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Point_on_square_side.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1_Greetings" />
       <item itemvalue="Python.2_Small_shop" />
       <item itemvalue="Python.3_Point_inside_square" />
       <item itemvalue="Python.4_Fruit_or_vegetable" />
       <item itemvalue="Python.5_Invalid_number" />
+      <item itemvalue="Python.6_Point_on_square_side" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6_Point_on_square_side" />
         <item itemvalue="Python.5_Invalid_number" />
         <item itemvalue="Python.4_Fruit_or_vegetable" />
         <item itemvalue="Python.3_Point_inside_square" />
         <item itemvalue="Python.2_Small_shop" />
-        <item itemvalue="Python.1_Greetings" />
       </list>
     </recent_temporary>
   </component>
@@ -231,39 +207,32 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="1358" y="-287" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2026538" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3277027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_Greetings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Greetings.py" />
     <entry file="file://$PROJECT_DIR$/1_Personal_Titles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -288,14 +257,21 @@
     <entry file="file://$PROJECT_DIR$/4_Fruit_or_vegetable.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5_Invalid_number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_Point_on_square_side.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="41" column="72" lean-forward="true" selection-end-line="61" />
         </state>
       </provider>
     </entry>
