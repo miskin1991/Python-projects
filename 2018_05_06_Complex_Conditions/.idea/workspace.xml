@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc157ed0-ec07-4dd3-a272-f932cf7d7a9f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/2018_05_06_Complex_Conditions.iml" afterPath="$PROJECT_DIR$/.idea/2018_05_06_Complex_Conditions.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="9_Day_of_the_week.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="9_Day_of_the_week.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/9_Day_of_the_week.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10_Animal_class.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10_Animal_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,6 +58,7 @@
         <option value="$PROJECT_DIR$/7_Fruit_store.py" />
         <option value="$PROJECT_DIR$/8_Trade_comissions.py" />
         <option value="$PROJECT_DIR$/9_Day_of_the_week.py" />
+        <option value="$PROJECT_DIR$/10_Animal_class.py" />
       </list>
     </option>
   </component>
@@ -108,8 +117,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9_Day_of_the_week">
-    <configuration name="5_Invalid_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10_Animal_class">
+    <configuration name="10_Animal_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -121,7 +130,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2018_05_06_Complex_Conditions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Invalid_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Animal_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,19 +204,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.5_Invalid_number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.8_Trade_comissions" />
-      <item index="2" class="java.lang.String" itemvalue="Python.6_Point_on_square_side" />
-      <item index="3" class="java.lang.String" itemvalue="Python.7_Fruit_store" />
-      <item index="4" class="java.lang.String" itemvalue="Python.9_Day_of_the_week" />
+      <item index="0" class="java.lang.String" itemvalue="Python.8_Trade_comissions" />
+      <item index="1" class="java.lang.String" itemvalue="Python.6_Point_on_square_side" />
+      <item index="2" class="java.lang.String" itemvalue="Python.7_Fruit_store" />
+      <item index="3" class="java.lang.String" itemvalue="Python.9_Day_of_the_week" />
+      <item index="4" class="java.lang.String" itemvalue="Python.10_Animal_class" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.9_Day_of_the_week" />
-        <item index="1" class="java.lang.String" itemvalue="Python.8_Trade_comissions" />
-        <item index="2" class="java.lang.String" itemvalue="Python.7_Fruit_store" />
-        <item index="3" class="java.lang.String" itemvalue="Python.6_Point_on_square_side" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5_Invalid_number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.10_Animal_class" />
+        <item index="1" class="java.lang.String" itemvalue="Python.9_Day_of_the_week" />
+        <item index="2" class="java.lang.String" itemvalue="Python.8_Trade_comissions" />
+        <item index="3" class="java.lang.String" itemvalue="Python.7_Fruit_store" />
+        <item index="4" class="java.lang.String" itemvalue="Python.6_Point_on_square_side" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +234,14 @@
       <option name="presentableId" value="Default" />
       <updated>1525610887264</updated>
     </task>
+    <task id="LOCAL-00001" summary="Complex conditions. Add problem 9. Days of week.">
+      <created>1526319081038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526319081039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -278,6 +295,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complex conditions. Add problem 9. Days of week." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complex conditions. Add problem 9. Days of week." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -398,6 +419,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_Animal_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
