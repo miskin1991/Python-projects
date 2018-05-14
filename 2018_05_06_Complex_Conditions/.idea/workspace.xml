@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc157ed0-ec07-4dd3-a272-f932cf7d7a9f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="cc157ed0-ec07-4dd3-a272-f932cf7d7a9f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +21,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="12_Volleyball.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="12_Volleyball.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12_Volleyball.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13_Point_inside_figure.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13_Point_inside_figure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,6 +69,7 @@
         <option value="$PROJECT_DIR$/10_Animal_class.py" />
         <option value="$PROJECT_DIR$/11_Cinema.py" />
         <option value="$PROJECT_DIR$/12_Volleyball.py" />
+        <option value="$PROJECT_DIR$/13_Point_inside_figure.py" />
       </list>
     </option>
   </component>
@@ -119,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.12_Volleyball">
+  <component name="RunManager" selected="Python.13_Point_inside_figure">
     <configuration name="10_Animal_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +180,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="8_Trade_comissions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13_Point_inside_figure" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -183,7 +192,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2018_05_06_Complex_Conditions" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_Trade_comissions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_Point_inside_figure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,19 +215,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.8_Trade_comissions" />
-      <item index="1" class="java.lang.String" itemvalue="Python.9_Day_of_the_week" />
-      <item index="2" class="java.lang.String" itemvalue="Python.10_Animal_class" />
-      <item index="3" class="java.lang.String" itemvalue="Python.11_Cinema" />
-      <item index="4" class="java.lang.String" itemvalue="Python.12_Volleyball" />
+      <item index="0" class="java.lang.String" itemvalue="Python.9_Day_of_the_week" />
+      <item index="1" class="java.lang.String" itemvalue="Python.10_Animal_class" />
+      <item index="2" class="java.lang.String" itemvalue="Python.11_Cinema" />
+      <item index="3" class="java.lang.String" itemvalue="Python.12_Volleyball" />
+      <item index="4" class="java.lang.String" itemvalue="Python.13_Point_inside_figure" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.12_Volleyball" />
-        <item index="1" class="java.lang.String" itemvalue="Python.11_Cinema" />
-        <item index="2" class="java.lang.String" itemvalue="Python.10_Animal_class" />
-        <item index="3" class="java.lang.String" itemvalue="Python.9_Day_of_the_week" />
-        <item index="4" class="java.lang.String" itemvalue="Python.8_Trade_comissions" />
+        <item index="0" class="java.lang.String" itemvalue="Python.13_Point_inside_figure" />
+        <item index="1" class="java.lang.String" itemvalue="Python.12_Volleyball" />
+        <item index="2" class="java.lang.String" itemvalue="Python.11_Cinema" />
+        <item index="3" class="java.lang.String" itemvalue="Python.10_Animal_class" />
+        <item index="4" class="java.lang.String" itemvalue="Python.9_Day_of_the_week" />
       </list>
     </recent_temporary>
   </component>
@@ -330,6 +339,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="42" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -351,6 +361,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="42" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -380,13 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
           <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_Point_on_square_side.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -447,10 +451,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/6_Point_on_square_side.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/12_Volleyball.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_Point_inside_figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
