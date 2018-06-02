@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc157ed0-ec07-4dd3-a272-f932cf7d7a9f" name="Default" comment="Complex conditions. Add problem 10. Animal class.">
-      <change beforePath="$PROJECT_DIR$/.idea/2018_05_06_Complex_Conditions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2018_05_06_Complex_Conditions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc157ed0-ec07-4dd3-a272-f932cf7d7a9f" name="Default" comment="Complex conditions. Add problem 10. Animal class." />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +20,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="14_On_Time_For_Exam.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="14_On_Time_For_Exam.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/14_On_Time_For_Exam.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" lean-forward="true" selection-end-line="35" />
+            <state relative-caret-position="142">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15_Developer_Holidays.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15_Developer_Holidays.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -63,10 +68,11 @@
         <option value="$PROJECT_DIR$/12_Volleyball.py" />
         <option value="$PROJECT_DIR$/13_Point_inside_figure.py" />
         <option value="$PROJECT_DIR$/14_On_Time_For_Exam.py" />
+        <option value="$PROJECT_DIR$/15_Developer_Holidays.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1696" />
@@ -110,25 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.14_On_Time_For_Exam">
-    <configuration name="10_Animal_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2018_05_06_Complex_Conditions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Animal_class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.15_Developer_Holidays">
     <configuration name="11_Cinema" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2018_05_06_Complex_Conditions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,20 +189,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="15_Developer_Holidays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2018_05_06_Complex_Conditions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_Developer_Holidays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.10_Animal_class" />
       <item itemvalue="Python.11_Cinema" />
       <item itemvalue="Python.12_Volleyball" />
       <item itemvalue="Python.13_Point_inside_figure" />
       <item itemvalue="Python.14_On_Time_For_Exam" />
+      <item itemvalue="Python.15_Developer_Holidays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15_Developer_Holidays" />
         <item itemvalue="Python.14_On_Time_For_Exam" />
         <item itemvalue="Python.13_Point_inside_figure" />
         <item itemvalue="Python.12_Volleyball" />
         <item itemvalue="Python.11_Cinema" />
-        <item itemvalue="Python.10_Animal_class" />
       </list>
     </recent_temporary>
   </component>
@@ -247,8 +253,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26785713" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -456,8 +461,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/14_On_Time_For_Exam.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" lean-forward="true" selection-end-line="35" />
+        <state relative-caret-position="142">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_Developer_Holidays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
         </state>
       </provider>
     </entry>
