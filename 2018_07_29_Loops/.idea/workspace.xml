@@ -20,11 +20,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6_Smallest_number.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="6_Smallest_number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6_Smallest_number.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" lean-forward="true" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7_Right_or_left_sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7_Right_or_left_sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -47,6 +56,7 @@
         <option value="$PROJECT_DIR$/4_Sum_n_numbers.py" />
         <option value="$PROJECT_DIR$/5_Biggest_number.py" />
         <option value="$PROJECT_DIR$/6_Smallest_number.py" />
+        <option value="$PROJECT_DIR$/7_Right_or_left_sum.py" />
       </list>
     </option>
   </component>
@@ -75,6 +85,11 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Courses\Python\git\2018_07_29_Loops" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -87,25 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6_Smallest_number">
-    <configuration name="2_Numbers_1_to_1000_end_on_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2018_07_29_Loops" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Numbers_1_to_1000_end_on_7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.7_Right_or_left_sum">
     <configuration name="3_All_latin_letters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2018_07_29_Loops" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,20 +175,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="7_Right_or_left_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2018_07_29_Loops" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_Right_or_left_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.2_Numbers_1_to_1000_end_on_7" />
       <item itemvalue="Python.3_All_latin_letters" />
       <item itemvalue="Python.4_Sum_n_numbers" />
       <item itemvalue="Python.5_Biggest_number" />
       <item itemvalue="Python.6_Smallest_number" />
+      <item itemvalue="Python.7_Right_or_left_sum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7_Right_or_left_sum" />
         <item itemvalue="Python.6_Smallest_number" />
         <item itemvalue="Python.5_Biggest_number" />
         <item itemvalue="Python.4_Sum_n_numbers" />
         <item itemvalue="Python.3_All_latin_letters" />
-        <item itemvalue="Python.2_Numbers_1_to_1000_end_on_7" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +321,14 @@
     <entry file="file://$PROJECT_DIR$/6_Smallest_number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" lean-forward="true" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_Right_or_left_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
         </state>
       </provider>
     </entry>
