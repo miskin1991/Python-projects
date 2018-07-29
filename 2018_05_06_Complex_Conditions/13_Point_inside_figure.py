@@ -8,7 +8,7 @@ horizontal_border = False
 horizontal_inside = False
 
 if ( h <= x <= 2*h) and (0 <= y <= 4*h):
-    #inside vertical rectangle
+    # inside vertical rectangle
     if x == h or x == 2*h or y == 0 or y == 4*h:
         vertical_border = True
     else:
@@ -21,7 +21,7 @@ if (0 <= x <= 3 * h) and (0 <= y <= h):
     else:
         horizontal_inside = True
 
-if (horizontal_border == True and vertical_inside == False) or (vertical_border == True and horizontal_inside == False):
+if (horizontal_border is True and vertical_inside is False) or (vertical_border is True and horizontal_inside is False):
     print('border')
 elif horizontal_inside or vertical_inside:
     print('inside')

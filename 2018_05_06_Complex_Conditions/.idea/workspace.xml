@@ -179,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.17_Game_tickets">
+  <component name="RunManager" selected="Python.13_Point_inside_figure">
     <configuration name="13_Point_inside_figure" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2018_05_06_Complex_Conditions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,9 +197,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="14_On_Time_For_Exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2018_05_06_Complex_Conditions" />
@@ -218,9 +215,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="15_Developer_Holidays" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2018_05_06_Complex_Conditions" />
@@ -239,9 +233,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="16_Operations_between_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2018_05_06_Complex_Conditions" />
@@ -260,9 +251,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="17_Game_tickets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2018_05_06_Complex_Conditions" />
@@ -281,9 +269,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.13_Point_inside_figure" />
@@ -294,11 +279,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.13_Point_inside_figure" />
         <item itemvalue="Python.17_Game_tickets" />
         <item itemvalue="Python.16_Operations_between_numbers" />
         <item itemvalue="Python.15_Developer_Holidays" />
         <item itemvalue="Python.14_On_Time_For_Exam" />
-        <item itemvalue="Python.13_Point_inside_figure" />
       </list>
     </recent_temporary>
   </component>
